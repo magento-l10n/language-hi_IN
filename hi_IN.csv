@@ -1,352 +1,16 @@
-Yes,हाँ
-No,नहीं
-Required,आवश्यक
-Return,वापसी
-None,"कोई नहीं"
-Title,शीर्षक
-Password,पासवर्ड
-Product,उत्पाद
-Status,स्थिति
-Previous,पिछला
-Next,अगला
-Administrator,व्यवस्थापक
-ID,आईडी
-Created,बनाया
-Action,कार्य
-Edit,"संपादित करें"
-Delete,हटाएँ
-"Are you sure?","क्या आपको यकीन है?"
-Customer,ग्राहक
-Name,नाम
-Price,मूल्य
-Quantity,मात्रा
-Websites,वेबसाइटों
-"Pending product review(s)","लंबित उत्पाद समीक्षा (s)"
-Actions,कार्रवाई
-Back,"पीछे	"
-"* Required Fields","* आवश्यक फील्ड्स"
-"Review by","द्वारा समीक्षित"
-"By Customers",ग्राहक
-Enabled,सक्षम
-"Save and Continue Edit","सहेजें और संपादित करना जारी रखें"
-"No Default Content","कोई डिफ़ॉल्ट सामग्री नहीं"
-Error,त्रुटि
-Reset,रीसेट
-Save,सहेजें
-Cancel,"रद्द करें"
-Remove,निकालें
-"Card Verification Number","कार्ड सत्यापन संख्या"
-[GLOBAL],[वैश्विक]
-[WEBSITE],[वेबसाइट]
-"[STORE VIEW]","[स्टोर दृश्य]"
-label,लेबल
-"Store View","स्टोर दृश्य"
-Website,वेबसाइट
-Scope,क्षेत्र
-"Allow HTML Tags on Storefront","दृश्यपटल पर HTML टैग्स की अनुमति"
-"Visible on Catalog Pages on Storefront","storefront पर कैटलॉग पृष्ठों पर दृश्यमान"
-"Web Site",वेबसाइट
-Empty,खाली
-"First Name","प्रथम नाम"
-"Last Name","अंतिम नाम"
-Email,ईमेल
-Import,आयात
-"-- Please Select --","-- कृपया चुने --"
-"An attribute set named '%1' already exists.","'%1' नामक विशेषता सेट पहले से मौजूद है ।"
-"We can't update the attribute.","हम विशेषता अद्यतन नहीं कर सकता ।"
-Products,उत्पादों
-"We can't delete this set right now.","हम अभी इस सेट को हटा नहीं सकते ।"
 All,सभी
-"We can't move the category because the parent category name matches the child category name.","हम श्रेणी को नहीं ले जा सकते क्योंकि पैरेंट श्रेणी नाम चाइल्ड श्रेणी नाम से मेल खाता है ।"
-Discount,छूट
-"-- Please select --","-- कृपया चुने --"
-"We can't rebuild the index for an undefined product.","हम किसी अपरिभाषित उत्पाद के लिए अनुक्रमणिका का पुन: निर्माण नहीं कर सकते ।"
-"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 का विस्तार नहीं करता \magento\catalog\model\layer\filter\\"
-Disabled,अक्षम
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","%1 फ़ाइल की प्रतिलिपि करने में विफल रहा। कृपया, गैर-मौजूदा छवियों के साथ मीडिया को हटाएँ और पुन: प्रयास करें।"
-"We can't add the product to the cart because of an option validation issue.","हम एक विकल्प मान्यता समस्या के कारण cart करने के लिए उत्पाद नहीं जोड़ सकते ।"
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","उत्पाद में ऐसे डेटा के साथ समूह मूल्य नहीं है: customergroupid = '%1', वेबसाइट = < div class = ""notranslate"" > १ </div>, qty = < div वर्ग = ""notranslate"" > 2 </div>"
-Search,खोज
-"Product %1 doesn't have linked %2 as %3","उत्पाद %1 के पास लिंक नहीं है < div class = ""notranslate"" > १ </div> as %3"
-"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 not extend \ magento\catalog\ Model\Resourcemodel\product\indexer\price\defaultprice"
-fl,Fl
-Select...,चयन...
-Done,पूर्ण
-name,नाम
-Qty,मात्रा
-"In Stock","स्टॉक में"
-"Out of Stock","स्टॉक ख़त्म"
-"Select All","सभी का चयन करें"
-"Special Price","विशेष मूल्य"
-"Regular Price","नियमित मूल्य"
-"In stock","स्टॉक में"
-"Out of stock","स्टॉक ख़त्म"
-"Add to Wish List","इच्छा सूचि में डालें"
-"We can't find products matching the selection.","चयन से मेल खाते कोई उत्पादों रहे हैं।"
-"Add to Compare","तुलना में जोड़ें"
-"select all","सभी का चयन करें"
-"Items %1-%2 of %3","आइटंस < div class = ""notranslate"" > 0 </div>-< div क्लास = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div>"
-Loading...,"लोड हो रहा है..."
-Submit,"जमा करें"
-"We don't recognize or support this file extension type.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।"
-Main,मुख्‍य
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} as production Name या {{sku}} उत्पाद sku प्लेसहोल्डर्स के रूप में उपयोग करें"
-Storefront,स्टोर
-"Category Top Navigation","श्रेणी शीर्ष नेविगेशन"
-Base,आधार
-"Catalog Input Type for Store Owner","संग्रह स्वामी के लिए कैटलॉग इनपुट प्रकार"
-System,सिस्‍टम
-Enable,सक्षम
-"Save Category","सहेजें श्रेणी"
-"Set Root Category for Store","संग्रह के लिए सेट मूल श्रेणी"
-"Custom Design","कस्टम डिजाइन"
-"Category Data","श्रेणी डेटा"
-"We saved the price alert subscription.","हम मूल्य चेतावनी सदस्यता सहेजा ।"
-"We saved the stock notification.","हमने शेयर अधिसूचना को सहेजा ।"
-"Click here or drag and drop to add images.","यहां क्लिक करें या खींचें और छवियों को जोड़ने के लिए ड्रॉप ।"
-"Make Base","आधार बनाना"
-"Product option with id %1 does not exist","आईडी के साथ उत्पाद विकल्प %1 मौजूद नहीं है"
-"Are you sure you want to delete this category?","क्या आपको पूरा यकीन है कि आप इस भाग को हटाना चाहते हैं?"
-"Set root category for this store in the <a href=""%1"">configuration</a>.","इस संग्रह में <a href=""%1""> कॉन्फ़िगरेशन</a> के लिए सेट मूल श्रेणी"
-Ok,"ठीक है"
-"Page not found","पृष्ठ नहीं मिला"
-"Successful! Test again?","सफल! फिर से परीक्षण?"
-Store,स्टोर
-Uses,उपयोग
-Custom,उपयोगकर्ता
-Close,"बंद करें"
-"Design Theme","डिजाइन विषय"
-Apply,"लागू करें"
-"Defines whether a link to My Account","निर्धारित करता है कि मेरे खाते का लिंक"
-"The text of the link to the My Account &gt; Order by SKU page","मेरे खाते की लिंक का पाठ &gt; आदेश sku page के द्वारा"
-"We can't find this customer.","हम इस ग्राहक को नहीं ढूंढ सकते।"
-"We can't find this store.","हम इस दुकान को नहीं ढूंढ सकते।"
-Customers,ग्राहकों
-"We don't have as many of these as you want.","हमारे पास ये इतने नहीं है जितने आप चाहते हो।"
-"You can't add this many to your cart.","आप इतने अपने कार्ट में नहीं डाल सकते।"
-"We can't find this wish list.","हम इस ग्राहक को नहीं ढूंढ सकते।"
-"No ordered items","कोई ऑर्डर नहीं किए गए आइटम"
-"Total %1 product(s)","कुल %1 उत्पाद"
-"Please select","कृपया चुने"
-"Move to Wish List","प्रतीक्षा सूची में जोड़ें"
-"Only <span id=""%1_max_allowed"">%2</span> in stock","केवल < div class = ""notranslate"" > 0 </div> < div class = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div> स्टॉक में"
-"Remove item","आइटम हटाएँ"
-Sku,SKU
-"Order by SKU Template","sku टेंपलेट द्वारा आदेश"
-"This block no longer exists.","यह ब्लॉक अब मौजूद नहीं है ।"
-"Currently Active","वर्तमान में सक्रिय"
-"New Theme","नई थीम"
-"Scheduled Changes","शेड्यूल्ड परिवर्तन"
-Description,वर्णन
-"Update Name","अद्यतन नाम"
-"Start Date","प्रारंभ दिनांक"
-"End Date","समाप्ति दिनांक"
-"General Information","सामान्य जानकारी"
-"Enable Block","ब्लॉक को सक्षम करें"
-"Block Title","ब्लॉक शीर्षक"
-Identifier,पहचानकर्ता
-"Save as a New Update","एक नए अद्यतन के रूप में सहेजें"
-"Delete the Update","अद्यतन को हटाएं"
-100,१००
-50,५०
-20,२०
-"Start Time","प्रारंभ समय"
-"End Time","अंत समय"
-"Remove CMS page from Update","अद्यतन से सीएमएस पृष्ठ निकालें"
-"Enable Page","पृष्ठ सक्षम करें"
-"Page Title","पृष्ठ शीर्षक"
-Content,सामग्री
-"Content Heading","सामग्री शीर्षक"
-"URL Key","यूआरएल कुंजी"
-"Meta Keywords","मेटा कीवर्ड"
-"Meta Description","मेटा विवरण"
-"Page in Websites","वेबसाइट में पृष्ठ"
-Design,डिजाइन
-Layout,लेआउट
-"Layout Update XML","लेआउट अद्यतन XML"
-"CMS Pages","सीएमएस पेज"
-"CMS Blocks","सीएमएस ब्लॉक"
-"Remove CMS block from Campaign","अभियान से सीएमएस ब्लॉक हटाएं"
-"Save Order Address","आदेश पता सहेजें"
-Message,संदेश 
-Select,चयन
-"Wish List","इच्छा सूची"
-"Visible On Storefront","स्टोरफ़्रंट पर दृश्यमान"
-"Grand Total",महायोग
-Unassign,अनअसाइन
-"We can't add this item to your shopping cart right now.","हम इस आइटम को आपकी शॉपिंग कार्ट में नहीं जोड़ सकते ।"
-Sales,बिक्री
-Order,ऑर्डर
-City,शहर
-Company,कंपनी
-Country,देश
-State/Province,राज्य/प्रांत
-"Street Address","सड़क का पता"
-"Zip/Postal Code","ज़िप/पोस्ट कोड"
-"Visible on Storefront","स्टोरफ़्रंट पर दृश्यमान"
-"Total %1 product(s)","कुल < div class = ""notranslate"" > 0 </div> उत्पाद (s)"
-"Email Order Confirmation","ईमेल आदेश पुष्टिकरण"
-Amount,राशि
-Date,दिनांक
-"View Order","आदेश देखें"
-"Print Order","मुद्रण क्रम"
-"Once your package ships we will send you a tracking number.","एक बार अपने पैकेज जहाजों हम आपको एक ट्रैकिंग नंबर भेज देंगे ।"
-Address,पता
-"Asynchronous indexing","अतुल्यकालिक अनुक्रमण"
-"Grand Total (Purchased)","कुल योग (खरीदे गए)"
-"Page not found.","पृष्ठ नहीं मिला ।"
-Failed,"विफल रहा"
-Id,आईडी
-"Last Update","अंतिम अद्यतन"
-"Persist Recently Ordered Items","हाल ही में आदेश आइटम जारी रहती है"
-"Update by Schedule","अनुसूची द्वारा अद्यतन"
-"State for the same view","समान दृश्य के लिए स्थिति"
-Updated,अद्यतन
-"We can't initialize checkout.","हम चेकआउट प्रारंभ नहीं कर सकता ।"
-"--Please Select--","--कृपया चुने--"
-"Place Order","स्थान क्रम"
-"We can't initialize checkout review.","हम चेकआउट समीक्षा प्रारंभ नहीं कर सकता ।"
-error,त्रुटि
-exception,अपवाद
-"Please Select","कृपया चुने"
-"Use Vault","वॉल्ट का उपयोग करें"
-"Paypal account","पेपैल खाता"
-"Coinbase account","कॉइनबेस खाता"
-"Europe bank account","यूरोप बैंक खाता"
-"Credit card","क्रेडिट कार्ड"
-"Apple pay card","एप्पल पे कार्ड"
-"Android pay card","एंड्रायड पे कार्ड"
-"Authorization expired","प्राधिकरण की समयसीमा समाप्त"
-Authorizing,अधिकृत
-Authorized,अधिकृत
-"Gateway rejected","गेटवे अस्वीकृत"
-"Processor declined","प्रोसेसर अस्वीकृत"
-"The stock item for Product in option is not valid.","विकल्प में उत्पाद के लिए स्टॉक आइटम मांय नहीं है ।"
-"Orphan rows that will be skipped due default row errors","ऑर्फ़न पंक्तियां जो डिफ़ॉल्ट पंक्ति त्रुटियों के कारण छोड़ी जाएंगी"
-"""identifiers"" of CMS blocks should be specified","सीएमएस ब्लॉकों के ""पहचानकर्ताओं"" निर्दिष्ट किया जाना चाहिए"
-"""Page id should be specified","""पेज आईडी निर्दिष्ट की जानी चाहिए"
-"The CMS block with the ""%1"" ID doesn't exist.","""%1"" ID वाला CMS ब्लॉक मौजूद नहीं है।"
-Exception,अपवाद
-"Deselect All","सभी को विचयन करें"
-products,उत्पादों
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","जाँच &quot;मुझे याद है&quot; इस कंप्यूटर पर अपनी शॉपिंग कार्ट तक पहुंचने के लिए भले ही आप साइन इन न हों ।"
-Admin,व्यवस्थापक
-"Select all","सभी का चयन करें"
-"My Wish Lists","मेरी इच्छा सूचियों"
-"1 item in wish list","< div class = ""notranslate"" > 0 काश सूची में </div> आइटम"
-"%1 items in wish list","< div class = ""notranslate"" > 0 काश सूची में </div> आइटम"
-"%1's Wish List","%1की इच्छा सूची"
-"Copy to Wish List","प्रतीक्षा सूची में जोड़ें"
-"Move Selected to Wish List","इच्छित सूची में चयनित ले जाएं"
-"Copy Selected to Wish List","इच्छित सूची में चयनित ले जाएं"
-"Conversion Color","रूपांतरण रंग"
-"Entity type model '%1' is not found","निकाय प्रकार मॉडल '%1' नहीं मिला है"
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए"
-"File directory '%1' is not readable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।"
-"File directory '%1' is not writable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।"
-"Value for 'price' sub attribute in 'store' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","' प्रकार ' उप विशेषता में ' custom_options ' विशेषता के लिए मान गलत मान हैं, स्वीकार्य मान हैं: ' ड्रॉपडाउन ', ' चेकबॉक्स '"
-"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
-"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
-"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
-"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
-"File '%1' was not found or has read restriction.","फाइल '%1' नहीं मिली या फिर पठन प्रतिबंध है ।"
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","नए ई-निजता निर्देश का अनुपालन करने के लिए, हमें कुकी सेट करने के लिए आपकी सहमति लेनी होगी."
-"New %1","नया %1"
-"Vul hier een geldige datum in.","वुल हिएर ईन गेदिगे गृहीत असावा."
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","इस फ़ील्ड की न्यूनतम लंबाई < div वर्ग = ""notranslate"" > 0 </div> प्रतीकों से बराबर या अधिक होनी चाहिए । अग्रणी और पीछे आने वाली रिक्तियों पर ध्यान नहीं दिया जाएगा ।"
-Export,निर्यात
-"We couldn't find any records.","हमें कोई रिकॉर्ड नहीं मिला ।"
-"Duplicate Row #%1 (duplicates row #%2)","डुप्लिकेट पंक्ति #%1 (डुप्लिकेट पंक्ति #%2)"
-"Store with the same code","एक ही कोड के साथ स्टोर"
-"Default store is inactive","डिफ़ॉल्ट संग्रह निष्क्रिय है"
-"User Name","उपयोगकर्ता नाम"
-"You have entered an invalid password for current user.","आपने वर्तमान उपयोगकर्ता के लिए अमांय पासवर्ड दर्ज किया है ।"
-email,ईमेल
-password,पासवर्ड
-username,"उपयोगकर्ता नाम"
-Username,"उपयोगकर्ता नाम"
-Filter,फ़िल्टर
-"Delivered on:","पर दिया:"
-"ZIP/Postal Code","ज़िप/पोस्ट कोड"
-"Max Products Sent in 1 Hour","1 घंटे में भेजे गए अधिकतम उत्पाद"
-"Refund Store Credit to Store Credit","स्टोर क्रेडिट के लिए धनवापसी स्टोर क्रेडिट"
-"Create Permanent Redirect for old URL","पुराने URL के लिए स्थायी अनुप्रेषित बनाएँ"
-"Invalid URL key","अमान्य URL कुंजी"
-"Category URL Suffix","श्रेणी URL प्रत्यय"
-"You need to refresh the cache.","आपको कैश ताज़ा करने की आवश्यकता है ।"
-"Product URL Suffix","उत्पाद यूआरएल प्रत्यय"
-status,स्थिति
-Total,कुल
-Purchased,खरीद
-"Add Date","दिनांक जोड़ें"
-"Please correct the data sent.","कृपया भेजे गए डेटा को सुधारें ।"
-Label,लेबल
-"Street Address %1","सड़क का पता %1"
-"Password Strength","पासवर्ड सामर्थ्य"
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","पासवर्ड में आवश्यक विभिन्न वर्ण वर्गों की संख्या: लोअरकेस, अपरकेस, अंक, विशेष वर्ण."
-"Minimum Password Length","न्यूनतम पासवर्ड लंबाई"
-"Prefix Dropdown Options","उपसर्ग ड्रॉपडाउन विकल्प"
-Login,"लॉग इन"
-"If you believe it is the right one you can ignore this notice.","यदि आपको लगता है कि यह सही है एक तुम इस नोटिस की अनदेखी कर सकते हैं ।"
-Promotions,प्रचार
-"Update Shopping Cart","खरीदारी की टोकरी अपडेट करें"
-"Proceed to Checkout","चेकआउट के लिए आगे बढ़ें"
-edit,"संपादित करें"
-"Unable to place order. Please try again later.","ऑर्डर रखने में असमर्थ । कृपया बाद में पुन: प्रयास करें ।"
+None,"कोई नहीं"
 "Allowed Scopes","अनुमति प्राप्त क्षेत्र"
 "You need more permissions to delete this item(s): %1.","इस आइटम को हटाने के लिए आपको अधिक अनुमतियों की आवश्यकता है!"
 "You need more permissions to apply some of the rule updates.","आप को कुछ अद्यतन नियम लागू करने के लिए अधिक अनुमतियों की आवश्यकता है।"
 "You can create orders only in an active store.","आप केवल एक सक्रिय संग्रह में आर्डर बना सकते हैं।"
 "You need more permissions to set All Scopes to a Role.","आपको सभी क्षेत्रों को एक भूमिका प्रदान करने के लिए अधिक अनुमति चाहिए।"
 "Incorrect website ID: %1","गलत वेबसाइट क्रमांक: %1"
-"Are you sure you want to match this rule now?","आप सुनिश्चित करें कि आप इस अपलोड को रद्द करना चाहते हैं?"
-quantity,मात्रा
-"Reimburse Balance","प्रतिपूर्ति शेष"
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि कंपनी सक्रिय नहीं है ।"
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि इस ग्राहक के साथ संबद्ध कंपनी मौजूद नहीं है ।"
-"History record no longer exists.","इतिहास रिकॉर्ड अब मौजूद नहीं है ।"
-"Company Credit","कंपनी क्रेडिट"
-unavailable.,"अनुपलब्ध है।"
-"We can't save the credit memo because the company associated with this customer does not exist.","हम क्रेडिट मेमो को सहेज नहीं सकते क्योंकि इस ग्राहक से संबद्ध कंपनी मौजूद नहीं है ।"
-Allocated,आवंटित
-Reimbursed,प्रतिपूर्ति
-Refunded,वापस
-"Exception message.","अपवाद संदेश।"
-"Exception Message","अपवाद संदेश।"
-"No such entity","ऐसी कोई इकाई नहीं"
-"Dear %name,","प्रिय %name,"
-"Order %order_id refunded","ऑर्डर %order_id वापस कर दिया गया"
-"Order %order_id reverted","ऑर्डर %order_id वापस आ गया"
-"Cancel the Order","ऑर्डर रद्द करें"
-Reimburse,प्रतिपूर्ति
-"Sort Order","सॉर्ट क्रम"
-Comma-separated,"अल्पविराम से अलग"
-View,देखें
-"Credit Currency","ऋण मुद्रा"
-"Allow To Exceed Credit Limit","क्रेडिट सीमा से अधिक की अनुमति दें"
-"Reason For Change","परिवर्तन का कारण"
-Comment,टिप्पणी
-Rate,दर
-"Convert Credit","कन्वर्ट क्रेडिट"
-"Preview mode doesn't allow submitting the order.","पूर्वावलोकन मोड आदेश सबमिट करने की अनुमति नहीं देता ।"
-"Preview Quote Lifetime (minutes)","पूर्वावलोकन उद्धरण जीवनकाल (मिनट)"
-"The order can't be submitted in preview mode.","आदेश पूर्वावलोकन मोड में प्रस्तुत नहीं किया जा सकता है।"
-"Click ""Save"" to apply the rates we found.","हमें मिले दरों को लागू करने के लिए ""सहेजें"" पर क्लिक करें ।"
-"All valid rates have been saved.","सभी वैध दरों को बचा लिया गया है ।"
-"Delete Synonym Group","समानार्थी समूह हटाएं"
-Marketing,विपणन
-"Search entire store here...","खोज पूरे यहां स्टोर.. ।"
-yes,हाँ
-no,नहीं
-"Now Shopping by","अब तक खरीदारी"
-"""model"" value should be specified","""मॉडल"" मान निर्दिष्ट किया जाना चाहिए"
-"Matched Customers (%1)","सुमेलित ग्राहक (%1)"
-"Customer is %1 to newsletter.","ग्राहक %1 न्यूज़लैटर है ।"
-subscribed,"सदस्यता प्राप्त"
-"not subscribed","सदस्यता दिनांक"
+Custom,उपयोगकर्ता
 "Read Details","विवरण पढ़ें"
 "Mark as Read","पढ़ा चिह्नित करें"
+"Are you sure?","क्या आपको यकीन है?"
+Remove,निकालें
 "Messages Inbox","संदेश इनबॉक्स"
 "You have %1 new system messages","आपके पास %1 नया सिस्टम संदेश है."
 "You have %1 new system message","आपके पास %1 नया सिस्टम संदेश है"
@@ -358,103 +22,265 @@ major,प्रमुख
 minor,मामूली
 "One or more of the Cache Types are invalidated: %1. ","एक या अधिक कैश प्रकार अमांय हैं: %1. "
 "System messages","Major System Messages"
+Close,"बंद करें"
 "Show Toolbar","उपकरण पट्टी दिखाएं"
 "Show List","सूची दिखाएं"
 "Use HTTPS to Get Feed","फ़ीड प्राप्त करने के लिए HTTPS का उपयोग करें"
 "Update Frequency","अद्यतन आवृत्ति"
+"Last Update","अंतिम अद्यतन"
 Severity,गंभीरता
 "Date Added","जोड़ने की तिथि"
+Message,संदेश 
+Actions,कार्रवाई
 "Close popup","पॉपअप बंद करें"
 "You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","आपने देखा और सभी हालिया सिस्टम सूचनाओं को हल किया है । कृपया सूचना चेतावनी साफ़ करने के लिए वेब पेज को ताज़ा करें ।"
-"Customers by Orders Total","कुल ऑर्डर के अनुसार ग्राहक"
+Back,"पीछे	"
+Cancel,"रद्द करें"
+Product,उत्पाद
+Price,मूल्य
+Quantity,मात्रा
+Products,उत्पादों
+ID,आईडी
+Apply,"लागू करें"
+"We can't find this customer.","हम इस ग्राहक को नहीं ढूंढ सकते।"
+"We can't find this store.","हम इस दुकान को नहीं ढूंढ सकते।"
+Customers,ग्राहकों
+"We don't have as many of these as you want.","हमारे पास ये इतने नहीं है जितने आप चाहते हो।"
+"You can't add this many to your cart.","आप इतने अपने कार्ट में नहीं डाल सकते।"
+"We can't find this wish list.","हम इस ग्राहक को नहीं ढूंढ सकते।"
+No,नहीं
+Qty,मात्रा
+Discount,छूट
+Action,कार्य
+"No ordered items","कोई ऑर्डर नहीं किए गए आइटम"
+"Total %1 product(s)","कुल %1 उत्पाद"
+"Please select","कृपया चुने"
+"Move to Wish List","प्रतीक्षा सूची में जोड़ें"
+Reset,रीसेट
+"Only <span id=""%1_max_allowed"">%2</span> in stock","केवल < div class = ""notranslate"" > 0 </div> < div class = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div> स्टॉक में"
+Edit,"संपादित करें"
+"Remove item","आइटम हटाएँ"
+Sku,SKU
+"The text of the link to the My Account &gt; Order by SKU page","मेरे खाते की लिंक का पाठ &gt; आदेश sku page के द्वारा"
+"Order by SKU Template","sku टेंपलेट द्वारा आदेश"
+"Please correct the data sent.","कृपया भेजे गए डेटा को सुधारें ।"
+"Entity type model '%1' is not found","निकाय प्रकार मॉडल '%1' नहीं मिला है"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए"
+"There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है"
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","< div class = ""notranslate"" > 0 </div> वर्ग \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface को लागू नहीं करता"
+"Successful! Test again?","सफल! फिर से परीक्षण?"
+Store,स्टोर
+Uses,उपयोग
+Yes,हाँ
+"Subscription status","सदस्यता स्थिति"
+"Sorry, there has been an error processing your request. Please try again later.","क्षमा करें, आपके अनुरोध को संसाधित करने में कोई त्रुटि आई है । कृपया बाद में पुन: प्रयास करें ।"
+"Time value has an unsupported format","समय मान में कोई असमर्थित स्वरूप है"
+"Cron settings can't be saved","क्रॉन सेटिंग्स सहेजी नहीं जा सकतीं"
+"There was an error save new configuration value.","नया कॉन्फ़िगरेशन मान सहेजने में त्रुटि हुई थी।"
+"Please select a vertical.","कृपया एक ऊर्ध्वाधर चुनें।"
+"--Please Select--","--कृपया चुनें--"
+"Command was not found.","आदेश नहीं मिला ।"
+"Encryption key can't be empty.","एन्क्रिप्शन कुंजी खाली नहीं हो सकती।"
+"Source ""%1"" is not exist","स्रोत मौजूद नहीं है ""%1"""
+"These arguments can't be empty ""%1""","ये तर्क रिक्त नहीं हो सकते ""%1"""
+"Cannot find predefined integration user!","पूर्वनिर्धारित एकीकरण उपयोगकर्ता नहीं मिल रहा है!"
+"File is not ready yet.","फाइल अभी तैयार नहीं हुई है।"
+"Advanced Reporting","उंनत रिपोर्टिंग"
+"Go to Advanced Reporting","उन्नत रिपोर्टिंग पर जाएं"
+Analytics,विश्लेषिकी
+API,"एपीआई (API)"
+"BI Essentials","BI आवश्यकताएँ"
+Industry,उद्योग
+"In order to personalize your Advanced Reporting experience, please select your industry.","अपने उन्नत रिपोर्टिंग अनुभव को निजीकृत करने के लिए, कृपया अपना उद्योग चुनें।"
+Done,पूर्ण
+Status,स्थिति
+Error,त्रुटि
+"We can't process your order right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।"
+"This payment didn't work out because we can't find this order.","यह भुगतान बाहर काम नहीं किया क्योंकि हम इस आदेश नहीं मिल सकता है ।"
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","कुछ गलत हुआ: भुगतान की गई राशि ऑर्डर राशि से मेल नहीं खाती । कृपया इसे सुधारें और पुन: प्रयास करें ।"
+"Please Select","कृपया चुने"
+"Card Verification Number","कार्ड सत्यापन संख्या"
+"Place Order","स्थान क्रम"
+Enabled,सक्षम
+Title,शीर्षक
+"Unable to place order. Please try again later.","ऑर्डर रखने में असमर्थ । कृपया बाद में पुन: प्रयास करें ।"
+"Select all","सभी का चयन करें"
+"Deselect all","सभी को विचयन करें"
+Customer,ग्राहक
+Total,कुल
+"User Name","उपयोगकर्ता नाम"
+"First Name","प्रथम नाम"
+"Last Name","अंतिम नाम"
+Email,ईमेल
+Enable,सक्षम
+Delete,हटाएँ
+Save,सहेजें
+"-- Please Select --","-- कृपया चुने --"
+"Custom Design","कस्टम डिजाइन"
+"Web Site",वेबसाइट
+Name,नाम
+Disabled,अक्षम
+Search,खोज
+"Select All","सभी का चयन करें"
+"We couldn't find any records.","हमें कोई रिकॉर्ड नहीं मिला ।"
+Export,निर्यात
+Submit,"जमा करें"
 "We can't refresh lifetime statistics.","हम आजीवन सांख्यिकी को ताज़ा नहीं कर सकते."
-"Undefined rate from ""%1-%2"".","""< div class ="" notranslate ""से अपरिभाषित दर > 0 </div>-< div class ="" notranslate ""> 1 </div>""."
-"Successful Messages Lifetime","सफल संदेश जीवनभर"
+System,सिस्‍टम
+"We can't create a backup right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।"
+"Store View","स्टोर दृश्य"
+"Authentication storage is incorrect.","प्रमाणीकरण संग्रह गलत है ।"
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए"
+"Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए"
+Order,ऑर्डर
+Username,"उपयोगकर्ता नाम"
+"user name","उपयोगकर्ता नाम"
+Password,पासवर्ड
+password,पासवर्ड
+Previous,पिछला
+Next,अगला
+"Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।"
+"No records found.","कोई परिणाम नहीं मिला।"
+Loading...,"लोड हो रहा है..."
+"We don't recognize or support this file extension type.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।"
+Marketing,विपणन
+Country,देश
+"ZIP/Postal Code","ज़िप/पोस्ट कोड"
+City,शहर
+"Street Address","सड़क का पता"
+Admin,व्यवस्थापक
+"Login is Case Sensitive","लॉगिन केस संवेदी है"
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","यदि कोई मान निर्दिष्ट नहीं है, तो सिस्टम डिफ़ॉल्ट उपयोग किया जाता है । सिस्टम डिफ़ॉल्ट तृतीय पक्ष एक्सटेंशन द्वारा संशोधित किया जा सकता है ।"
+"Please correct the tab configuration and try again. Tab Id should be not empry","कृपया टैब कॉंफ़िगरेशन सुधारें और पुन: प्रयास करें । टैब आईडी को एमकुतूहल नहीं होना चाहिए"
+"You have entered an invalid password for current user.","आपने वर्तमान उपयोगकर्ता के लिए अमांय पासवर्ड दर्ज किया है ।"
+"Unable to delete website. Please, try again later.","ऑर्डर रखने में असमर्थ । कृपया बाद में पुन: प्रयास करें ।"
+"Themes JavaScript and CSS files combined to one file.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।"
+"Design Theme","डिजाइन विषय"
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","पृष्ठांकन मेनू में पिछले लिंक के लिए वैकल्पिक पाठ । यदि खाली, डिफ़ॉल्ट तीर छवि का इस्तेमाल किया जाएगा ।"
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","पृष्ठांकन मेनू में पिछले लिंक के लिए वैकल्पिक पाठ । यदि खाली, डिफ़ॉल्ट तीर छवि का इस्तेमाल किया जाएगा ।"
+"Values less than 60 are ignored.","६० से कम मान पर ध्यान नहीं दिया जाता ।"
+"Page not found.","पृष्ठ नहीं मिला ।"
+label,लेबल
 "We can't create the backup right now.","हम अभी बैकअप नहीं बना सकते ।"
 "We can't delete one or more backups.","हम एक या अधिक बैकअप नहीं हटा सकते ।"
 "Can't load snapshot archive","स्नैपशॉट संग्रह लोड नहीं कर सकता"
 "We can't find the backup file.","हम बैकअप फ़ाइल नहीं ढूँढ सकता ।"
 "We can't connect to the FTP right now.","हम अभी FTP से कनेक्ट नहीं कर सकता ।"
-"Name: Z - A","नाम: जेड-ए"
-discount,छूट
-"No such public catalog entity","ऐसा कोई सार्वजनिक कैटलॉग एंटिटी नहीं"
-"The product that was requested doesn't exist. Verify the product and try again.","अनुरोधित उत्पाद मौजूद नहीं है । उत्पाद की जांच करें और पुन: प्रयास करें ।"
-"Shared Catalog (or Customer Group)","साझा कैटलॉग (या ग्राहक समूह)"
-"Requested product doesn't exist","अनुरोधित उत्पाद मौजूद नहीं है"
+"Save and Continue Edit","सहेजें और संपादित करना जारी रखें"
+"No Default Content","कोई डिफ़ॉल्ट सामग्री नहीं"
+"We can't initialize checkout.","हम चेकआउट प्रारंभ नहीं कर सकता ।"
+"--Please Select--","--कृपया चुने--"
+Select...,चयन...
+Amount,राशि
+"We can't initialize checkout review.","हम चेकआउट समीक्षा प्रारंभ नहीं कर सकता ।"
+error,त्रुटि
+exception,अपवाद
+"* Required Fields","* आवश्यक फील्ड्स"
+Company,कंपनी
+Address,पता
+State/Province,राज्य/प्रांत
+"Zip/Postal Code","ज़िप/पोस्ट कोड"
+"Use Vault","वॉल्ट का उपयोग करें"
+"Paypal account","पेपैल खाता"
+"Coinbase account","कॉइनबेस खाता"
+"Europe bank account","यूरोप बैंक खाता"
+"Credit card","क्रेडिट कार्ड"
+"Apple pay card","एप्पल पे कार्ड"
+"Android pay card","एंड्रायड पे कार्ड"
+"Authorization expired","प्राधिकरण की समयसीमा समाप्त"
+Authorizing,अधिकृत
+Authorized,अधिकृत
+"Gateway rejected","गेटवे अस्वीकृत"
+Failed,"विफल रहा"
+"Processor declined","प्रोसेसर अस्वीकृत"
 "As Low as","के रूप में कम के रूप में"
-"Positive list. The customer is on your positive list. Decision Manager Developer Guide Using the Simple Order AP  January 201 10 Appendix  Information and Reply Code","सकारात्मक सूची । ग्राहक आपकी सकारात्मक सूची में है । निर्णय प्रबंधक डेवलपर गाइड का उपयोग सरल आदेश एपी जनवरी २०१ १० परिशिष्ट सूचना और उत्तर कोड"
-"Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number","पहचान morphing. एक डेंटिटी तत्व के एकाधिक मान किसी भिंन पहचान तत्व के मान से लिंक किए गए हैं । उदाहरण के लिए, एम ltiple फोन नंबर एक एकल खाता संख्या से जुड़े हुए है"
-"We cannot retrieve the transparent payment method model object.","हम पारदर्शी भुगतान विधि मॉडल ऑब्जेक्ट प्राप्त नहीं कर सकता ।"
-Next/Previous,Next/पिछला
-"Please wait...","कृपया प्रतीक्षा करें"
-General,सामान्य
-Cron,क्रॉन
-"Enable Cron","क्रॉन सक्षम करें"
-"We can't create a backup right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।"
-"Authentication storage is incorrect.","प्रमाणीकरण संग्रह गलत है ।"
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए"
-"Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए"
-"user name","उपयोगकर्ता नाम"
-"Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।"
-"No records found.","कोई परिणाम नहीं मिला।"
-"Login is Case Sensitive","लॉगिन केस संवेदी है"
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","यदि कोई मान निर्दिष्ट नहीं है, तो सिस्टम डिफ़ॉल्ट उपयोग किया जाता है । सिस्टम डिफ़ॉल्ट तृतीय पक्ष एक्सटेंशन द्वारा संशोधित किया जा सकता है ।"
-"Please correct the tab configuration and try again. Tab Id should be not empry","कृपया टैब कॉंफ़िगरेशन सुधारें और पुन: प्रयास करें । टैब आईडी को एमकुतूहल नहीं होना चाहिए"
-"Unable to delete website. Please, try again later.","ऑर्डर रखने में असमर्थ । कृपया बाद में पुन: प्रयास करें ।"
-"Themes JavaScript and CSS files combined to one file.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।"
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","पृष्ठांकन मेनू में पिछले लिंक के लिए वैकल्पिक पाठ । यदि खाली, डिफ़ॉल्ट तीर छवि का इस्तेमाल किया जाएगा ।"
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.","पृष्ठांकन मेनू में पिछले लिंक के लिए वैकल्पिक पाठ । यदि खाली, डिफ़ॉल्ट तीर छवि का इस्तेमाल किया जाएगा ।"
-"Values less than 60 are ignored.","६० से कम मान पर ध्यान नहीं दिया जाता ।"
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","< div class = ""notranslate"" > 0 </div> वर्ग \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface को लागू नहीं करता"
-"We can't process your order right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।"
-"This payment didn't work out because we can't find this order.","यह भुगतान बाहर काम नहीं किया क्योंकि हम इस आदेश नहीं मिल सकता है ।"
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","कुछ गलत हुआ: भुगतान की गई राशि ऑर्डर राशि से मेल नहीं खाती । कृपया इसे सुधारें और पुन: प्रयास करें ।"
-"Deselect all","सभी को विचयन करें"
-Archive,"संग्रह "
-Height,ऊँचाई
-Depth,गहराई
-Width,चौड़ाई
-Others,अन्य
-Documents,दस्तावेज़
-"Field ","क्षेत्र "
-BeagleScore,बीग्लेस्कोर
-eWAY,Eway
-"Queue Information","केही जानकारी"
-"Variable Code","चर(वेरिएबल्स) का नाम"
-"Variable HTML Value","परिवर्तनीय एचटीएमएल वैल्यू"
-"There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है"
-"""%1"" is longer than allowed.","""< div class ="" notranslate ""> 0 </div>"" की अनुमति से अधिक लंबा है ।"
-"Partially Authorized","आंशिक रूप से अधिकृत"
-"Partially Approved","आंशिक रूप से अनुमोदित"
-Rejected,निरस्त
-"Partially Rejected","आंशिक रूप से अस्वीकृत"
-Denied,निषेध
-"Processed and Closed","संसाधित और बंद"
-"Placed on %created_at","< div class पर रखा = ""notranslate"" > 0 </div> reated_at"
-"This update not exists.","यह अद्यतन मौजूद नहीं है ।"
-"You removed this %1 from the update and saved it in a new one.","आपने इस %1 को अपडेट से हटा दिया और इसे एक नए में सेव कर लिया ।"
-product,उत्पाद
-"Include FPT In Subtotal","उप-योग में fpt शामिल करें"
-"Smth went to exception","smth अपवाद के पास गया"
-"Test Connection","परीक्षण कनेक्शन"
-"Your current session has been expired.","आपका वर्तमान सत्र समाप्त हो गया है ।"
-Thumbnail,थंबनेल
-Type,प्रकार
-"Attribute Set","विशेषता सेट"
-AttributeSetText,"विशेषता सेट पाठ"
-StatusText,"स्थिति पाठ"
-"General: Withdrawal from PayPal Account","जनरल: पेपैल खाते से निकासी"
-"Mobile Payment (made via a mobile phone)","मोबाइल भुगतान (एक मोबाइल फोन के माध्यम से बनाया)"
-"Payments Pro","भुगतान प्रो"
+"We can't add this item to your shopping cart right now.","हम इस आइटम को आपकी शॉपिंग कार्ट में नहीं जोड़ सकते ।"
+Required,आवश्यक
+"Regular Price","नियमित मूल्य"
+"In stock","स्टॉक में"
+"Out of stock","स्टॉक ख़त्म"
+"Special Price","विशेष मूल्य"
+[GLOBAL],[वैश्विक]
+[WEBSITE],[वेबसाइट]
+"[STORE VIEW]","[स्टोर दृश्य]"
+Website,वेबसाइट
+Scope,क्षेत्र
+"Allow HTML Tags on Storefront","दृश्यपटल पर HTML टैग्स की अनुमति"
+"Visible on Catalog Pages on Storefront","storefront पर कैटलॉग पृष्ठों पर दृश्यमान"
+Empty,खाली
+Websites,वेबसाइटों
+Import,आयात
+"An attribute set named '%1' already exists.","'%1' नामक विशेषता सेट पहले से मौजूद है ।"
+"We can't update the attribute.","हम विशेषता अद्यतन नहीं कर सकता ।"
+"We can't delete this set right now.","हम अभी इस सेट को हटा नहीं सकते ।"
+"We can't move the category because the parent category name matches the child category name.","हम श्रेणी को नहीं ले जा सकते क्योंकि पैरेंट श्रेणी नाम चाइल्ड श्रेणी नाम से मेल खाता है ।"
+"-- Please select --","-- कृपया चुने --"
+"We can't rebuild the index for an undefined product.","हम किसी अपरिभाषित उत्पाद के लिए अनुक्रमणिका का पुन: निर्माण नहीं कर सकते ।"
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 का विस्तार नहीं करता \magento\catalog\model\layer\filter\\"
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","%1 फ़ाइल की प्रतिलिपि करने में विफल रहा। कृपया, गैर-मौजूदा छवियों के साथ मीडिया को हटाएँ और पुन: प्रयास करें।"
+"We can't add the product to the cart because of an option validation issue.","हम एक विकल्प मान्यता समस्या के कारण cart करने के लिए उत्पाद नहीं जोड़ सकते ।"
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","उत्पाद में ऐसे डेटा के साथ समूह मूल्य नहीं है: customergroupid = '%1', वेबसाइट = < div class = ""notranslate"" > १ </div>, qty = < div वर्ग = ""notranslate"" > 2 </div>"
+"Product %1 doesn't have linked %2 as %3","उत्पाद %1 के पास लिंक नहीं है < div class = ""notranslate"" > १ </div> as %3"
+"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 not extend \ magento\catalog\ Model\Resourcemodel\product\indexer\price\defaultprice"
+fl,Fl
+name,नाम
+"In Stock","स्टॉक में"
+"Out of Stock","स्टॉक ख़त्म"
+"Add to Wish List","इच्छा सूचि में डालें"
+"We can't find products matching the selection.","चयन से मेल खाते कोई उत्पादों रहे हैं।"
+"Add to Compare","तुलना में जोड़ें"
+"select all","सभी का चयन करें"
+"Items %1-%2 of %3","आइटंस < div class = ""notranslate"" > 0 </div>-< div क्लास = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div>"
+Main,मुख्‍य
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} as production Name या {{sku}} उत्पाद sku प्लेसहोल्डर्स के रूप में उपयोग करें"
+Storefront,स्टोर
+"Category Top Navigation","श्रेणी शीर्ष नेविगेशन"
+Base,आधार
+"Catalog Input Type for Store Owner","संग्रह स्वामी के लिए कैटलॉग इनपुट प्रकार"
+"Save Category","सहेजें श्रेणी"
+"Set Root Category for Store","संग्रह के लिए सेट मूल श्रेणी"
+"Category Data","श्रेणी डेटा"
+"We saved the price alert subscription.","हम मूल्य चेतावनी सदस्यता सहेजा ।"
+"We saved the stock notification.","हमने शेयर अधिसूचना को सहेजा ।"
+"Click here or drag and drop to add images.","यहां क्लिक करें या खींचें और छवियों को जोड़ने के लिए ड्रॉप ।"
+"Make Base","आधार बनाना"
+"Product option with id %1 does not exist","आईडी के साथ उत्पाद विकल्प %1 मौजूद नहीं है"
+"Are you sure you want to delete this category?","क्या आपको पूरा यकीन है कि आप इस भाग को हटाना चाहते हैं?"
+"Set root category for this store in the <a href=""%1"">configuration</a>.","इस संग्रह में <a href=""%1""> कॉन्फ़िगरेशन</a> के लिए सेट मूल श्रेणी"
+Ok,"ठीक है"
+"Page not found","पृष्ठ नहीं मिला"
 "Catalog Events","कैटलॉग ईवेंट्स"
 "Edit Event...","घटना का संपादन ..."
-"Wish List Sharing","काश सूची शेयरिंग"
-"%1 has been moved to your wish list.","%1 को आपकी इच्छा सूची में ले जाया गया है ।"
-"This wish list can be shared %1 more times.","इस इच्छा सूची साझा किया जा सकता है %1 अधिक बार ।"
-"Your wish list has been shared.","आपकी इच्छा सूची साझा की गई है ।"
-"%1 has been updated in your Wish List.","%1 को आपकी इच्छा सूची में ले जाया गया है ।"
-"Display number of items in wish list","काश सूची में आइटम की संख्या प्रदर्शित करें"
-hello,नमस्कार
+"File directory '%1' is not readable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।"
+"File directory '%1' is not writable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।"
+"Value for 'price' sub attribute in 'store' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","' प्रकार ' उप विशेषता में ' custom_options ' विशेषता के लिए मान गलत मान हैं, स्वीकार्य मान हैं: ' ड्रॉपडाउन ', ' चेकबॉक्स '"
+"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
+"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
+"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
+"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं"
+"File '%1' was not found or has read restriction.","फाइल '%1' नहीं मिली या फिर पठन प्रतिबंध है ।"
+"The stock item for Product in option is not valid.","विकल्प में उत्पाद के लिए स्टॉक आइटम मांय नहीं है ।"
+Promotions,प्रचार
+"Smth went to exception","smth अपवाद के पास गया"
+"Update Name","अद्यतन नाम"
+100,१००
+50,५०
+20,२०
+"Create Permanent Redirect for old URL","पुराने URL के लिए स्थायी अनुप्रेषित बनाएँ"
+"Invalid URL key","अमान्य URL कुंजी"
+"Category URL Suffix","श्रेणी URL प्रत्यय"
+"You need to refresh the cache.","आपको कैश ताज़ा करने की आवश्यकता है ।"
+"Product URL Suffix","उत्पाद यूआरएल प्रत्यय"
+"Update Shopping Cart","खरीदारी की टोकरी अपडेट करें"
+"Proceed to Checkout","चेकआउट के लिए आगे बढ़ें"
+Login,"लॉग इन"
+edit,"संपादित करें"
+"If you believe it is the right one you can ignore this notice.","यदि आपको लगता है कि यह सही है एक तुम इस नोटिस की अनदेखी कर सकते हैं ।"
+Sales,बिक्री
+"Preview mode doesn't allow submitting the order.","पूर्वावलोकन मोड आदेश सबमिट करने की अनुमति नहीं देता ।"
+"Preview Quote Lifetime (minutes)","पूर्वावलोकन उद्धरण जीवनकाल (मिनट)"
+"The order can't be submitted in preview mode.","आदेश पूर्वावलोकन मोड में प्रस्तुत नहीं किया जा सकता है।"
 "Static Blocks","स्थैतिक ब्लॉक"
 "Add New Block","नया ब्लॉक जोड़ें"
 Back,वापस
@@ -462,11 +288,13 @@ Back,वापस
 "Are you sure you want to do this?","क्या आप निश्चयपूर्वक यह करना चाहते हैं?"
 "Save and Continue Edit","सहेजें और संपादन जारी रखें"
 "Save Block","ब्लॉक सहेजें"
+Identifier,पहचानकर्ता
 "Manage Pages","पृष्ठों का प्रबंधन करें"
 "Add New Page","नया पृष्ठ जोड़ें"
 "Delete Page","पृष्ठ हटाएं"
 "Save Page","पृष्ठ सहेजें"
 "URL Key","यूआरएल (URL) कुंजी"
+Layout,लेआउट
 "Store View","संग्रह दृश्य"
 Created,"बनाया गया"
 Modified,संशोधित
@@ -487,6 +315,7 @@ Home,घर
 CMS,"सीएमएस (CMS)"
 "You deleted the block.","आपने ब्लॉक को हटा दिया ।"
 "We can't find a block to delete.","हमें हटाने के लिए कोई ब्लॉक नहीं मिल रहा है।"
+"This block no longer exists.","यह ब्लॉक अब मौजूद नहीं है ।"
 "Edit Block","ब्लॉक संपादित करें"
 "New Block","नई ब्लॉक"
 Blocks,ब्लॉक
@@ -499,7 +328,10 @@ Blocks,ब्लॉक
 "Edit Page","पृष्ठ संपादित करें"
 "New Page","नया पृष्ठ"
 Pages,पृष्ठों
+"Page Title","पृष्ठ शीर्षक"
 "You saved the page.","आपने पृष्ठ सहेजा ।"
+Exception,अपवाद
+View,देखें
 "No files found","कोई भी फाइल नहीं मिली"
 "Collapse All","सभी को संकुचित करें"
 "Expand All","सभी को विस्तृत करें"
@@ -530,14 +362,26 @@ Template,टेम्पलेट
 Block,ब्लॉक
 "Select Block...","ब्लॉक चुनें..."
 "CMS Static Block Default Template","सीएमएस स्टेटिक ब्लॉक डिफ़ॉल्ट टेम्पलेट"
+"General Information","सामान्य जानकारी"
+"Enable Block","ब्लॉक को सक्षम करें"
+"Block Title","ब्लॉक शीर्षक"
 "Are you sure you want to delete selected items?","क्या आप वाकई चयनित आइटम हटाना चाहते हैं?"
 "Delete items","आइटम हटाएं"
 "Page Information","पृष्ठ जानकारी"
+"Enable Page","पृष्ठ सक्षम करें"
+Content,सामग्री
+"Content Heading","सामग्री शीर्षक"
 "Search Engine Optimization","खोज इंजन अनुकूलन"
 "Meta Title","मेटा शीर्षक"
+"Meta Keywords","मेटा कीवर्ड"
+"Meta Description","मेटा विवरण"
+"Page in Websites","वेबसाइट में पृष्ठ"
+Design,डिजाइन
+"Layout Update XML","लेआउट अद्यतन XML"
 "Custom Design Update","कस्टम डिजाइन अद्यतन"
 From,से
 To,को
+"New Theme","नई थीम"
 "-- Please Select --","-कृपया चुनें-"
 "New Layout","नया लेआउट"
 Disable,डिसेबल
@@ -551,28 +395,184 @@ Details,विस्तार
 "Save & Close","सहेजें और बंद करें"
 "Delete Selected","चयनित समूह हटाएँ"
 "Create Folder","फ़ोल्डर बनाएँ"
-more,और
-"Subscription status","सदस्यता स्थिति"
-"Sorry, there has been an error processing your request. Please try again later.","क्षमा करें, आपके अनुरोध को संसाधित करने में कोई त्रुटि आई है । कृपया बाद में पुन: प्रयास करें ।"
-"Time value has an unsupported format","समय मान में कोई असमर्थित स्वरूप है"
-"Cron settings can't be saved","क्रॉन सेटिंग्स सहेजी नहीं जा सकतीं"
-"There was an error save new configuration value.","नया कॉन्फ़िगरेशन मान सहेजने में त्रुटि हुई थी।"
-"Please select a vertical.","कृपया एक ऊर्ध्वाधर चुनें।"
-"--Please Select--","--कृपया चुनें--"
-"Command was not found.","आदेश नहीं मिला ।"
-"Encryption key can't be empty.","एन्क्रिप्शन कुंजी खाली नहीं हो सकती।"
-"Source ""%1"" is not exist","स्रोत मौजूद नहीं है ""%1"""
-"These arguments can't be empty ""%1""","ये तर्क रिक्त नहीं हो सकते ""%1"""
-"Cannot find predefined integration user!","पूर्वनिर्धारित एकीकरण उपयोगकर्ता नहीं मिल रहा है!"
-"File is not ready yet.","फाइल अभी तैयार नहीं हुई है।"
-"Advanced Reporting","उंनत रिपोर्टिंग"
-"Go to Advanced Reporting","उन्नत रिपोर्टिंग पर जाएं"
-Analytics,विश्लेषिकी
-API,"एपीआई (API)"
-"BI Essentials","BI आवश्यकताएँ"
-Industry,उद्योग
-"In order to personalize your Advanced Reporting experience, please select your industry.","अपने उन्नत रिपोर्टिंग अनुभव को निजीकृत करने के लिए, कृपया अपना उद्योग चुनें।"
+"""identifiers"" of CMS blocks should be specified","सीएमएस ब्लॉकों के ""पहचानकर्ताओं"" निर्दिष्ट किया जाना चाहिए"
+"""Page id should be specified","""पेज आईडी निर्दिष्ट की जानी चाहिए"
+"The CMS block with the ""%1"" ID doesn't exist.","""%1"" ID वाला CMS ब्लॉक मौजूद नहीं है।"
+"Currently Active","वर्तमान में सक्रिय"
+"Scheduled Changes","शेड्यूल्ड परिवर्तन"
+Description,वर्णन
+"Start Date","प्रारंभ दिनांक"
+"End Date","समाप्ति दिनांक"
+"Save as a New Update","एक नए अद्यतन के रूप में सहेजें"
+"Delete the Update","अद्यतन को हटाएं"
+"Start Time","प्रारंभ समय"
+"End Time","अंत समय"
+"Remove CMS page from Update","अद्यतन से सीएमएस पृष्ठ निकालें"
+"URL Key","यूआरएल कुंजी"
+"CMS Pages","सीएमएस पेज"
+"CMS Blocks","सीएमएस ब्लॉक"
+"Remove CMS block from Campaign","अभियान से सीएमएस ब्लॉक हटाएं"
+Rejected,निरस्त
+"Reimburse Balance","प्रतिपूर्ति शेष"
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि कंपनी सक्रिय नहीं है ।"
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि इस ग्राहक के साथ संबद्ध कंपनी मौजूद नहीं है ।"
+"History record no longer exists.","इतिहास रिकॉर्ड अब मौजूद नहीं है ।"
+"Company Credit","कंपनी क्रेडिट"
+unavailable.,"अनुपलब्ध है।"
+"We can't save the credit memo because the company associated with this customer does not exist.","हम क्रेडिट मेमो को सहेज नहीं सकते क्योंकि इस ग्राहक से संबद्ध कंपनी मौजूद नहीं है ।"
+Allocated,आवंटित
+Updated,अद्यतन
+Purchased,खरीद
+Reimbursed,प्रतिपूर्ति
+Refunded,वापस
+"Exception message.","अपवाद संदेश।"
+"Exception Message","अपवाद संदेश।"
+"No such entity","ऐसी कोई इकाई नहीं"
+"Dear %name,","प्रिय %name,"
+"Order %order_id refunded","ऑर्डर %order_id वापस कर दिया गया"
+"Order %order_id reverted","ऑर्डर %order_id वापस आ गया"
+"Cancel the Order","ऑर्डर रद्द करें"
+Reimburse,प्रतिपूर्ति
+"Sort Order","सॉर्ट क्रम"
+Comma-separated,"अल्पविराम से अलग"
+"Credit Currency","ऋण मुद्रा"
+"Allow To Exceed Credit Limit","क्रेडिट सीमा से अधिक की अनुमति दें"
+"Reason For Change","परिवर्तन का कारण"
+Comment,टिप्पणी
+Rate,दर
+"Convert Credit","कन्वर्ट क्रेडिट"
+Date,दिनांक
+"Deselect All","सभी को विचयन करें"
+Select,चयन
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","नए ई-निजता निर्देश का अनुपालन करने के लिए, हमें कुकी सेट करने के लिए आपकी सहमति लेनी होगी."
+"Click ""Save"" to apply the rates we found.","हमें मिले दरों को लागू करने के लिए ""सहेजें"" पर क्लिक करें ।"
+"All valid rates have been saved.","सभी वैध दरों को बचा लिया गया है ।"
+"Add Date","दिनांक जोड़ें"
+Label,लेबल
+"Street Address %1","सड़क का पता %1"
+"Password Strength","पासवर्ड सामर्थ्य"
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","पासवर्ड में आवश्यक विभिन्न वर्ण वर्गों की संख्या: लोअरकेस, अपरकेस, अंक, विशेष वर्ण."
+"Minimum Password Length","न्यूनतम पासवर्ड लंबाई"
+"Prefix Dropdown Options","उपसर्ग ड्रॉपडाउन विकल्प"
+Created,बनाया
+"Refund Store Credit to Store Credit","स्टोर क्रेडिट के लिए धनवापसी स्टोर क्रेडिट"
+"Orphan rows that will be skipped due default row errors","ऑर्फ़न पंक्तियां जो डिफ़ॉल्ट पंक्ति त्रुटियों के कारण छोड़ी जाएंगी"
+"Matched Customers (%1)","सुमेलित ग्राहक (%1)"
+"Customer is %1 to newsletter.","ग्राहक %1 न्यूज़लैटर है ।"
+subscribed,"सदस्यता प्राप्त"
+"not subscribed","सदस्यता दिनांक"
+"Wish List","इच्छा सूची"
+"Grand Total",महायोग
+"Positive list. The customer is on your positive list. Decision Manager Developer Guide Using the Simple Order AP  January 201 10 Appendix  Information and Reply Code","सकारात्मक सूची । ग्राहक आपकी सकारात्मक सूची में है । निर्णय प्रबंधक डेवलपर गाइड का उपयोग सरल आदेश एपी जनवरी २०१ १० परिशिष्ट सूचना और उत्तर कोड"
+"Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number","पहचान morphing. एक डेंटिटी तत्व के एकाधिक मान किसी भिंन पहचान तत्व के मान से लिंक किए गए हैं । उदाहरण के लिए, एम ltiple फोन नंबर एक एकल खाता संख्या से जुड़े हुए है"
+Height,ऊँचाई
+Depth,गहराई
+Width,चौड़ाई
+Others,अन्य
+Documents,दस्तावेज़
+"Field ","क्षेत्र "
+"Undefined rate from ""%1-%2"".","""< div class ="" notranslate ""से अपरिभाषित दर > 0 </div>-< div class ="" notranslate ""> 1 </div>""."
+"View Order","आदेश देखें"
+hello,नमस्कार
+"Test Connection","परीक्षण कनेक्शन"
+BeagleScore,बीग्लेस्कोर
+eWAY,Eway
+status,स्थिति
+"Conversion Color","रूपांतरण रंग"
+"""model"" value should be specified","""मॉडल"" मान निर्दिष्ट किया जाना चाहिए"
+Thumbnail,थंबनेल
+Type,प्रकार
+"Attribute Set","विशेषता सेट"
+AttributeSetText,"विशेषता सेट पाठ"
+StatusText,"स्थिति पाठ"
+Filter,फ़िल्टर
+"Update by Schedule","अनुसूची द्वारा अद्यतन"
+"State for the same view","समान दृश्य के लिए स्थिति"
+"Now Shopping by","अब तक खरीदारी"
+Archive,"संग्रह "
 "On Gesture","इशारे पर"
+"My Wish Lists","मेरी इच्छा सूचियों"
+"1 item in wish list","< div class = ""notranslate"" > 0 काश सूची में </div> आइटम"
+"%1 items in wish list","< div class = ""notranslate"" > 0 काश सूची में </div> आइटम"
+"%1's Wish List","%1की इच्छा सूची"
+"Copy to Wish List","प्रतीक्षा सूची में जोड़ें"
+"Move Selected to Wish List","इच्छित सूची में चयनित ले जाएं"
+"Copy Selected to Wish List","इच्छित सूची में चयनित ले जाएं"
+"Successful Messages Lifetime","सफल संदेश जीवनभर"
+discount,छूट
+"No such public catalog entity","ऐसा कोई सार्वजनिक कैटलॉग एंटिटी नहीं"
+"The product that was requested doesn't exist. Verify the product and try again.","अनुरोधित उत्पाद मौजूद नहीं है । उत्पाद की जांच करें और पुन: प्रयास करें ।"
+"Shared Catalog (or Customer Group)","साझा कैटलॉग (या ग्राहक समूह)"
+"Requested product doesn't exist","अनुरोधित उत्पाद मौजूद नहीं है"
+General,सामान्य
+Cron,क्रॉन
+"Enable Cron","क्रॉन सक्षम करें"
+"Queue Information","केही जानकारी"
+"Duplicate Row #%1 (duplicates row #%2)","डुप्लिकेट पंक्ति #%1 (डुप्लिकेट पंक्ति #%2)"
+"We cannot retrieve the transparent payment method model object.","हम पारदर्शी भुगतान विधि मॉडल ऑब्जेक्ट प्राप्त नहीं कर सकता ।"
+"General: Withdrawal from PayPal Account","जनरल: पेपैल खाते से निकासी"
+"Mobile Payment (made via a mobile phone)","मोबाइल भुगतान (एक मोबाइल फोन के माध्यम से बनाया)"
+"Payments Pro","भुगतान प्रो"
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","जाँच &quot;मुझे याद है&quot; इस कंप्यूटर पर अपनी शॉपिंग कार्ट तक पहुंचने के लिए भले ही आप साइन इन न हों ।"
+"Persist Recently Ordered Items","हाल ही में आदेश आइटम जारी रहती है"
+"Are you sure you want to match this rule now?","आप सुनिश्चित करें कि आप इस अपलोड को रद्द करना चाहते हैं?"
+quantity,मात्रा
+"Customers by Orders Total","कुल ऑर्डर के अनुसार ग्राहक"
+"By Customers",ग्राहक
+Administrator,व्यवस्थापक
+"Pending product review(s)","लंबित उत्पाद समीक्षा (s)"
+"Review by","द्वारा समीक्षित"
+Return,वापसी
+"Grand Total (Purchased)","कुल योग (खरीदे गए)"
+"""%1"" is longer than allowed.","""< div class ="" notranslate ""> 0 </div>"" की अनुमति से अधिक लंबा है ।"
+"Partially Authorized","आंशिक रूप से अधिकृत"
+"Partially Approved","आंशिक रूप से अनुमोदित"
+"Partially Rejected","आंशिक रूप से अस्वीकृत"
+Denied,निषेध
+"Processed and Closed","संसाधित और बंद"
+"Visible on Storefront","स्टोरफ़्रंट पर दृश्यमान"
+"Placed on %created_at","< div class पर रखा = ""notranslate"" > 0 </div> reated_at"
+"Save Order Address","आदेश पता सहेजें"
+"Visible On Storefront","स्टोरफ़्रंट पर दृश्यमान"
+Unassign,अनअसाइन
+"Total %1 product(s)","कुल < div class = ""notranslate"" > 0 </div> उत्पाद (s)"
+"Email Order Confirmation","ईमेल आदेश पुष्टिकरण"
+"Print Order","मुद्रण क्रम"
+"Once your package ships we will send you a tracking number.","एक बार अपने पैकेज जहाजों हम आपको एक ट्रैकिंग नंबर भेज देंगे ।"
+"Asynchronous indexing","अतुल्यकालिक अनुक्रमण"
+"Delete Synonym Group","समानार्थी समूह हटाएं"
+"Search entire store here...","खोज पूरे यहां स्टोर.. ।"
+yes,हाँ
+no,नहीं
+"Your current session has been expired.","आपका वर्तमान सत्र समाप्त हो गया है ।"
+"Max Products Sent in 1 Hour","1 घंटे में भेजे गए अधिकतम उत्पाद"
+products,उत्पादों
+"Delivered on:","पर दिया:"
+"This update not exists.","यह अद्यतन मौजूद नहीं है ।"
+"You removed this %1 from the update and saved it in a new one.","आपने इस %1 को अपडेट से हटा दिया और इसे एक नए में सेव कर लिया ।"
+"Store with the same code","एक ही कोड के साथ स्टोर"
+"Default store is inactive","डिफ़ॉल्ट संग्रह निष्क्रिय है"
+Id,आईडी
+more,और
+product,उत्पाद
+"New %1","नया %1"
+"Vul hier een geldige datum in.","वुल हिएर ईन गेदिगे गृहीत असावा."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","इस फ़ील्ड की न्यूनतम लंबाई < div वर्ग = ""notranslate"" > 0 </div> प्रतीकों से बराबर या अधिक होनी चाहिए । अग्रणी और पीछे आने वाली रिक्तियों पर ध्यान नहीं दिया जाएगा ।"
+email,ईमेल
+username,"उपयोगकर्ता नाम"
+"Variable Code","चर(वेरिएबल्स) का नाम"
+"Variable HTML Value","परिवर्तनीय एचटीएमएल वैल्यू"
+Next/Previous,Next/पिछला
+"Please wait...","कृपया प्रतीक्षा करें"
+"Name: Z - A","नाम: जेड-ए"
+"Include FPT In Subtotal","उप-योग में fpt शामिल करें"
+"Defines whether a link to My Account","निर्धारित करता है कि मेरे खाते का लिंक"
+"Wish List Sharing","काश सूची शेयरिंग"
+"%1 has been moved to your wish list.","%1 को आपकी इच्छा सूची में ले जाया गया है ।"
+"This wish list can be shared %1 more times.","इस इच्छा सूची साझा किया जा सकता है %1 अधिक बार ।"
+"Your wish list has been shared.","आपकी इच्छा सूची साझा की गई है ।"
+"%1 has been updated in your Wish List.","%1 को आपकी इच्छा सूची में ले जाया गया है ।"
+"Display number of items in wish list","काश सूची में आइटम की संख्या प्रदर्शित करें"
 "Backup options","बैकअप विकल्प"
 Warning,चेतावनी!
 "Recent items","हाल ही के आइटम"
