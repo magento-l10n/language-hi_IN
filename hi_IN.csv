@@ -68,8 +68,11 @@ Sku,SKU
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए"
 "There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है"
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","< div class = ""notranslate"" > 0 </div> वर्ग \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface को लागू नहीं करता"
+"Add New Search Term","नई खोज शब्द जोड़ें"
 "Successful! Test again?","सफल! फिर से परीक्षण?"
+"Did you mean","क्या आपका मतलब था?"
 Store,स्टोर
+Results,परिणाम
 Uses,उपयोग
 Yes,हाँ
 "Subscription status","सदस्यता स्थिति"
@@ -106,12 +109,26 @@ Title,शीर्षक
 "Unable to place order. Please try again later.","ऑर्डर रखने में असमर्थ । कृपया बाद में पुन: प्रयास करें ।"
 "Select all","सभी का चयन करें"
 "Deselect all","सभी को विचयन करें"
+Orders,ऑर्डर
+Amounts,राशी
 Customer,ग्राहक
+Guest,अतिथि
+Items,आइटम्स
 Total,कुल
+Average,औसत
+"What is this?","यह क्या है?"
+"My Account","मेरा खाता"
+"Account Information","खाते की जानकारी"
 "User Name","उपयोगकर्ता नाम"
 "First Name","प्रथम नाम"
 "Last Name","अंतिम नाम"
 Email,ईमेल
+"New Password","नया पासवर्ड"
+"Password Confirmation","पासवर्ड पुष्टिकरण"
+"Your Password","आपका पासवर्ड"
+"Catalog Rewrites","कैटलॉग पुनर्लेखनों"
+Refresh,रीफ्रेश
+Clear,साफ़
 Enable,सक्षम
 Delete,हटाएँ
 Save,सहेजें
@@ -119,37 +136,118 @@ Save,सहेजें
 "Custom Design","कस्टम डिजाइन"
 "Web Site",वेबसाइट
 Name,नाम
+Code,कोड
 Disabled,अक्षम
+"Sort Order","सॉर्ट क्रम"
+"Web Site Information","वेब साइट जानकारी"
+"Default Store","डिफ़ॉल्ट स्टोर"
+Stores,स्टोर
+"Create Website","वेबसाइट बनाएँ"
+"Create Store","स्टोर बनाएँ"
+Home,घर
+"Are you sure you want to do this?","क्या आप निश्चयपूर्वक यह करना चाहते हैं?"
+"Add New Image","नई छवि जोड़ें"
+"Reset Filter","फ़िल्टर रीसेट करें"
 Search,खोज
+Any,"कोई भी"
+"All Countries","सभी देश"
+From,से
+To,से
+"Date selector","दिनांक चयनकर्ता"
 "Select All","सभी का चयन करें"
 "We couldn't find any records.","हमें कोई रिकॉर्ड नहीं मिला ।"
+"Add New","नया जोड़ें"
 Export,निर्यात
+"Please select items.","कृपया आइटम का चयन करें।"
 Submit,"जमा करें"
+"You have logged out.","आपने लॉग ऑफ कर लिया।"
 "We can't refresh lifetime statistics.","हम आजीवन सांख्यिकी को ताज़ा नहीं कर सकते."
+"You saved the account.","आपने खाता सहेज लिया है।"
 System,सिस्‍टम
 "We can't create a backup right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।"
+"You deleted the store.","आपने स्टोर हटा दिया।"
 "Store View","स्टोर दृश्य"
+"You deleted the website.","आपने वेबसाइट को हटा दिया।"
+"The website does not exist.","वेबसाइट मौजूद नहीं है।"
+"The store does not exist","स्टोर मौजूद नहीं है"
+"You saved the store.","आपने स्टोर को सहेजा ।"
+"Last 24 Hours","पिछले 24 घंटे"
+"Last 7 Days","आखिरी 7 दिन"
+"Current Month","वर्तमान माह"
 "Authentication storage is incorrect.","प्रमाणीकरण संग्रह गलत है ।"
+"Authentication error occurred.","प्रमाणीकरण त्रुटि हुई।"
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए"
 "Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए"
 Order,ऑर्डर
+"Next steps","अगले चरण"
+"previous page","पिछला पृष्ठ"
+.,।
 Username,"उपयोगकर्ता नाम"
 "user name","उपयोगकर्ता नाम"
 Password,पासवर्ड
 password,पासवर्ड
+"Account Setting","खाता सेटिंग"
+"Customer View","ग्राहक दृश्य"
+"Sign Out","साइन आउट"
+"Go Today","आज पर जाएँ"
 Previous,पिछला
 Next,अगला
+Time,समय
+Hour,घंटा
+Minute,मिनट
+"Report an Issue","मामले की रिपोर्ट करें"
 "Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।"
+Catalog,कैटलॉग
+JavaScript/CSS,जावास्क्रिप्ट/CSS
 "No records found.","कोई परिणाम नहीं मिला।"
+Thumbnail,थंबनेल
+"Additional Settings","अतिरिक्त सेटिंग"
+selected,चयनित
+"Previous page","पिछला पृष्ठ"
+"Next page","अगला पृष्ठ"
+"Unselect All","सभी का चयन रद्द करें"
 Loading...,"लोड हो रहा है..."
 "We don't recognize or support this file extension type.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।"
 Marketing,विपणन
+Currency,चलन
+Services,सेवाए
+Advanced,उन्नत
+"Custom Email 1","कस्टम ईमेल 1"
+"Sender Email","भेजने वाले का ईमेल"
+"Sender Name","भेजने वाले का नाम"
+"Custom Email 2","कस्टम ईमेल 2"
+"General Contact","सामान्य संपर्क"
+"Sales Representative","बिक्री प्रतिनिधि"
+"Customer Support","ग्राहक सहायता"
+Developer,डेवलपर
+Debug,डीबग
+"Minify Html","Html को छोटा करें"
+"Translate Inline","इनलाइन अनुवाद"
+"Enabled for Storefront","स्टोरफ्रंट के लिए सक्षम"
+"Enabled for Admin","व्यवस्थापक के लिए सक्षम"
+"JavaScript Settings","जावास्क्रिप्ट सेटिंग्स"
+"Merge JavaScript Files","जावास्क्रिप्ट फ़ाइलों को मर्ज करें"
+"Minify JavaScript Files","जावास्क्रिप्ट फ़ाइलों को छोटा करें"
+"CSS Settings","सीएसएस सेटिंग्स"
+"Merge CSS Files","सीएसएस सेटिंग्स मर्ज करें"
+"Minify CSS Files","सीएसएस फ़ाइलों को छोटा करें"
+"Image Adapter","छवि अनुकूलक"
+"Country Options","देश के विकल्प"
+"Allow Countries","देशों की अनुमति दें"
+"Default Country","डिफ़ॉल्ट देश"
 Country,देश
 "ZIP/Postal Code","ज़िप/पोस्ट कोड"
 City,शहर
 "Street Address","सड़क का पता"
 Admin,व्यवस्थापक
+Security,सुरक्षा
 "Login is Case Sensitive","लॉगिन केस संवेदी है"
+Web,वेब
+"Base URLs","आधार URLs"
+"Base URL","आधार URL"
+"Base Link URL","आधार लिंक URL"
+"Base URLs (Secure)","आधार URLs (सुरक्षित)"
+"Secure Base URL","सुरक्षित आधार URL"
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","यदि कोई मान निर्दिष्ट नहीं है, तो सिस्टम डिफ़ॉल्ट उपयोग किया जाता है । सिस्टम डिफ़ॉल्ट तृतीय पक्ष एक्सटेंशन द्वारा संशोधित किया जा सकता है ।"
 "Please correct the tab configuration and try again. Tab Id should be not empry","कृपया टैब कॉंफ़िगरेशन सुधारें और पुन: प्रयास करें । टैब आईडी को एमकुतूहल नहीं होना चाहिए"
 "You have entered an invalid password for current user.","आपने वर्तमान उपयोगकर्ता के लिए अमांय पासवर्ड दर्ज किया है ।"
@@ -285,7 +383,6 @@ Sales,बिक्री
 "Add New Block","नया ब्लॉक जोड़ें"
 Back,वापस
 "Delete Block","ब्लॉक हटाएं"
-"Are you sure you want to do this?","क्या आप निश्चयपूर्वक यह करना चाहते हैं?"
 "Save and Continue Edit","सहेजें और संपादन जारी रखें"
 "Save Block","ब्लॉक सहेजें"
 Identifier,पहचानकर्ता
@@ -310,7 +407,6 @@ Preview,पूर्वावलोकन
 "Are you sure you want to delete this file?","क्या आप निश्चयपूर्वक इस फ़ाइल को हटाना चाहते हैं?"
 "Images (%1)","छवियां (%1)"
 "Storage Root","भंडारण रूट"
-Home,घर
 "Go to Home Page","मुख पृष्ठ पर जाएं"
 CMS,"सीएमएस (CMS)"
 "You deleted the block.","आपने ब्लॉक को हटा दिया ।"
@@ -379,7 +475,6 @@ Content,सामग्री
 Design,डिजाइन
 "Layout Update XML","लेआउट अद्यतन XML"
 "Custom Design Update","कस्टम डिजाइन अद्यतन"
-From,से
 To,को
 "New Theme","नई थीम"
 "-- Please Select --","-कृपया चुनें-"
@@ -433,7 +528,6 @@ Refunded,वापस
 "Order %order_id reverted","ऑर्डर %order_id वापस आ गया"
 "Cancel the Order","ऑर्डर रद्द करें"
 Reimburse,प्रतिपूर्ति
-"Sort Order","सॉर्ट क्रम"
 Comma-separated,"अल्पविराम से अलग"
 "Credit Currency","ऋण मुद्रा"
 "Allow To Exceed Credit Limit","क्रेडिट सीमा से अधिक की अनुमति दें"
@@ -480,7 +574,6 @@ eWAY,Eway
 status,स्थिति
 "Conversion Color","रूपांतरण रंग"
 """model"" value should be specified","""मॉडल"" मान निर्दिष्ट किया जाना चाहिए"
-Thumbnail,थंबनेल
 Type,प्रकार
 "Attribute Set","विशेषता सेट"
 AttributeSetText,"विशेषता सेट पाठ"
