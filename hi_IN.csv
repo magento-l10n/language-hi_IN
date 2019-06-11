@@ -507,6 +507,16 @@ Description,वर्णन
 "CMS Pages","सीएमएस पेज"
 "CMS Blocks","सीएमएस ब्लॉक"
 "Remove CMS block from Campaign","अभियान से सीएमएस ब्लॉक हटाएं"
+"Delete Customer","ग्राहक को हटा दें"
+"Delete Company","कंपनी हटाएं"
+Companies,कंपनियों
+"Add New Company","नई कंपनी जोड़ें"
+"Company Name:","कंपनी का नाम:"
+"Company Legal Name:","कंपनी का कानूनी नाम:"
+"Company Email:","कंपनी का ईमेल:"
+"VAT/TAX ID:","वैट / टैक्स आईडी:"
+"Re-seller ID:","पुनः विक्रेता आईडी:"
+"Street Address:","गली का पता:"
 Rejected,निरस्त
 "Reimburse Balance","प्रतिपूर्ति शेष"
 "Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि कंपनी सक्रिय नहीं है ।"
