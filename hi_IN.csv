@@ -548,6 +548,12 @@ Rate,दर
 Date,दिनांक
 "Deselect All","सभी को विचयन करें"
 Select,चयन
+SKU,एसकेयु
+Weight,वजन
+Attributes,विशेषताएँ
+Visible,दृश्यमान
+Searchable,"खोज योग्य"
+Comparable,तुलनीय
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","नए ई-निजता निर्देश का अनुपालन करने के लिए, हमें कुकी सेट करने के लिए आपकी सहमति लेनी होगी."
 "Click ""Save"" to apply the rates we found.","हमें मिले दरों को लागू करने के लिए ""सहेजें"" पर क्लिक करें ।"
 "All valid rates have been saved.","सभी वैध दरों को बचा लिया गया है ।"
@@ -658,6 +664,15 @@ products,उत्पादों
 Id,आईडी
 more,और
 product,उत्पाद
+"Dictionary (Translation on Storefront side)","शब्दकोश (स्टोरफ्रंट पक्ष पर अनुवाद)"
+"Embedded (Translation on Admin side)","एंबेडेड (व्यवस्थापक पक्ष पर अनुवाद)"
+"Error while translating phrase ""%s"" in file %s.","फ़ाइल %s में वाक्यांश ""%s"" का अनुवाद करते समय त्रुटि।"
+"Error while generating js translation dictionary: ""%s""","JS अनुवाद शब्दकोश बनाते समय त्रुटि: ""%s"""
+"Translation Strategy","अनुवाद की रणनीति"
+Translations,अनुवाद
+"Translation files","अनुवाद फ़ाइलें"
+"Translation files.","अनुवाद फ़ाइलें।"
+"Please put your store into maintenance mode and redeploy static files after changing strategy","रणनीति बदलने के बाद कृपया अपने स्टोर को रखरखाव मोड में रखें और स्थिर फ़ाइलों को फिर से बनाएँ"
 "New %1","नया %1"
 "Vul hier een geldige datum in.","वुल हिएर ईन गेदिगे गृहीत असावा."
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","इस फ़ील्ड की न्यूनतम लंबाई < div वर्ग = ""notranslate"" > 0 </div> प्रतीकों से बराबर या अधिक होनी चाहिए । अग्रणी और पीछे आने वाली रिक्तियों पर ध्यान नहीं दिया जाएगा ।"
@@ -676,6 +691,13 @@ Next/Previous,Next/पिछला
 "Your wish list has been shared.","आपकी इच्छा सूची साझा की गई है ।"
 "%1 has been updated in your Wish List.","%1 को आपकी इच्छा सूची में ले जाया गया है ।"
 "Display number of items in wish list","काश सूची में आइटम की संख्या प्रदर्शित करें"
+Summary,सारांश
+"Account Dashboard","खाता डैशबोर्ड"
+"Address Book","पता पुस्तिका"
+Menu,मेनू
+Account,खाता
+Settings,सेटिंग्स
+"Remove This Item","इस आइटम को निकालें"
 "Backup options","बैकअप विकल्प"
 Warning,चेतावनी!
 "Recent items","हाल ही के आइटम"
