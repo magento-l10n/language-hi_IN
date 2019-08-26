@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-hi_in",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "type": "magento2-language",
     "description": "hi_IN language package.",
     "license": [
