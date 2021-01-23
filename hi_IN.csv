@@ -7,6 +7,7 @@ None,"कोई नहीं"
 "You need more permissions to set All Scopes to a Role.","आपको सभी क्षेत्रों को एक भूमिका प्रदान करने के लिए अधिक अनुमति चाहिए।"
 "Incorrect website ID: %1","गलत वेबसाइट क्रमांक: %1"
 Custom,उपयोगकर्ता
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","आपके पास वर्तमान स्टोर दृश्य के दायरे में इस आइटम को सहेजने की अनुमति नहीं है। कृपया, अनुमत स्टोर दृश्य पर स्विच करें"
 "Read Details","विवरण पढ़ें"
 "Mark as Read","पढ़ा चिह्नित करें"
 "Are you sure?","क्या आपको यकीन है?"
