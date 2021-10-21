@@ -184,7 +184,6 @@ Time,समय
 Hour,घंटा
 Minute,मिनट
 "Report an Issue","मामले की रिपोर्ट करें"
-"Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।"
 Catalog,कैटलॉग
 JavaScript/CSS,जावास्क्रिप्ट/CSS
 "No records found.","कोई परिणाम नहीं मिला।"
@@ -195,6 +194,7 @@ selected,चयनित
 "Next page","अगला पृष्ठ"
 "Unselect All","सभी का चयन रद्द करें"
 Loading...,"लोड हो रहा है..."
+"Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।"
 Marketing,विपणन
 Currency,चलन
 Services,सेवाए
@@ -2416,7 +2416,6 @@ Closed,"बन्द है"
 "test message","परीक्षण संदेश"
 "Email has not been sent","ईमेल नहीं भेजा गया है"
 "Authorized amount of %1","%1 की अधिकृत राशि"
-" Transaction ID: ""%1"""," लेनदेन आईडी: ""%1"""
 "Group was removed","समूह हटा दिया गया था"
 "Changing address information will not recalculate shipping, tax or other order amount.","पते की जानकारी बदलने से शिपिंग, टैक्स या अन्य ऑर्डर राशि की पुनर्गणना नहीं होगी।"
 "Comment Text","टिप्पणी पाठ"
@@ -2700,11 +2699,11 @@ products,उत्पादों
 "Store with the same code","एक ही कोड के साथ स्टोर करें"
 "Website with the same code","उसी कोड के साथ वेबसाइट"
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","वेबसाइट कोड में केवल अक्षर (a-z), संख्याएँ (0-9) या अंडरस्कोर (_) हो सकते हैं, और पहले वर्ण में एक अक्षर होना चाहिए।"
-"Name is required","नाम आवश्यक है"
-"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","स्टोर कोड में केवल अक्षर (ए-जेड), संख्याएं (0-9) या अंडरस्कोर (_) हो सकते हैं, और पहले वर्ण में एक अक्षर होना चाहिए।"
 "Store is inactive","स्टोर निष्क्रिय है"
 "Invalid store parameter.","अमान्य स्टोर पैरामीटर।"
 "Default store is inactive","डिफ़ॉल्ट स्टोर निष्क्रिय है"
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","स्टोर कोड में केवल अक्षर (ए-जेड), संख्याएं (0-9) या अंडरस्कोर (_) हो सकते हैं, और पहले वर्ण में एक अक्षर होना चाहिए।"
+"Name is required","नाम आवश्यक है"
 "no such entity exception","ऐसी कोई इकाई अपवाद नहीं है"
 "Your Language:","आपकी भाषा:"
 "Your Language","आपकी भाषा"
@@ -2912,6 +2911,7 @@ Manage,प्रबंधित
 "Storage Root","भंडारण जड़"
 welcome,"स्वागत हे"
 "Design Configuration","डिजाइन विन्यास"
+"We cannot find a theme with id ""%1"".","हम आईडी ""%1"" के साथ एक विषय नहीं खोज सकते।"
 "You deleted the theme.","आपने थीम हटा दी।"
 "We cannot delete the theme.","हम विषय को हटा नहीं सकते।"
 "File not found: ""%1"".","फ़ाइल नहीं मिली: ""%1""।"
@@ -2921,7 +2921,6 @@ welcome,"स्वागत हे"
 "This theme is not editable.","यह विषय संपादन योग्य नहीं है।"
 "You saved the theme.","आपने थीम सेव कर ली।"
 "We can't upload the CSS file right now.","हम अभी CSS फ़ाइल अपलोड नहीं कर सकते हैं।"
-"We cannot find a theme with id ""%1"".","हम आईडी ""%1"" के साथ एक विषय नहीं खोज सकते।"
 "We can't upload the JS file right now.","हम अभी JS फाइल अपलोड नहीं कर सकते हैं।"
 "Sorry, something went wrong. That's all we know.","क्षमा करें, कुछ गलत हो गया। बस हमें यही पता है।"
 "Invalid type","अमान्य प्रकार"
